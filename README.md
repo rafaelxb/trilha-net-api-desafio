@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+Utilizando os conhecimentos adquiridos durante o curso, completei o código fornecido. Escolhi por fazer o projeto, conforme proposta abaixo fazendo uma Web API.
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
